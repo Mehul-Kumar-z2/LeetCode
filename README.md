@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0006-zigzag-conversion) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
