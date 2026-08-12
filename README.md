@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0176-second-highest-salary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
