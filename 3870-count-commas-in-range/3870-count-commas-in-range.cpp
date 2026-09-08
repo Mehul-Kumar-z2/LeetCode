@@ -20,7 +20,7 @@ public:
         s--;
         int sum = 0;
         while(s>0){
-            int add = add+ 998*(Intpow(1000, s));
+            int add = add + 998*(Intpow(1000, s));
             int y = s-1;
             while(y>0){
                 add = add + 999*(Intpow(1000, y));
