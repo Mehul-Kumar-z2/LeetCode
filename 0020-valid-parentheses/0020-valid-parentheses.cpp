@@ -17,8 +17,6 @@ public:
     bool isValid(string s) {
         stack<char> pt;
         char* ptr = &(s[0]);
-        pt.push(*ptr);
-        ptr+=1;
         while((*ptr)!='\0'){
             char c = *ptr;
             char l = opp(c);
