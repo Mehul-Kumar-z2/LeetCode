@@ -16,7 +16,7 @@ public:
         while(q!=NULL && (q->next)!=NULL){
             if(p == q) return 1;
             p = p->next;
-            q = (q->next)->next;
+            q = q->next->next;
         }
         return 0;
     }
