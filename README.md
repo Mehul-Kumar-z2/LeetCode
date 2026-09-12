@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0231-power-of-two) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0066-plus-one) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
