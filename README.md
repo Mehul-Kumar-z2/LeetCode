@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -94,9 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0141-linked-list-cycle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
