@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0066-plus-one) |
+| [0835-image-overlap](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
