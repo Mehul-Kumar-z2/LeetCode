@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0835-image-overlap](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0338-counting-bits) |
 | [1137-n-th-tribonacci-number](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
