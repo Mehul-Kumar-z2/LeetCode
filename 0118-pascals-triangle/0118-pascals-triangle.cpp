@@ -7,7 +7,7 @@ public:
         pas[1].insert(pas[1].end(), {1, 1});
         if(numRows==2) return pas;
         for(int i=2; i<numRows; i++){
-            int n = pas[i-1].size();
+            int n = i;
             pas[i].push_back(1);
             int j=1;
             while(j<n){
