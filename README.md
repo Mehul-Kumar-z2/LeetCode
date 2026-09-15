@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0146-lru-cache) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -138,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0836-rectangle-overlap) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
