@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0396-rotate-function](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0396-rotate-function) |
+| [0682-baseball-game](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0835-image-overlap) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Mehul-Kumar-z2/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
