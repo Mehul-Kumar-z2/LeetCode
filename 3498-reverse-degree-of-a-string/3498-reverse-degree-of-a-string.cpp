@@ -4,7 +4,7 @@ public:
         int sum = 0;
         int i = 1;
         for(char c : s){
-            sum+=(i)*(('a' - static_cast<char>(c)) + 26);
+            sum+=(i)*(123 - static_cast<int>(c));
             i++;
         }
         return sum;
